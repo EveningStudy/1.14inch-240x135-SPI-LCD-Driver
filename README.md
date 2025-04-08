@@ -1,1 +1,2 @@
 # 1.14inch-240x135-SPI-LCD-Driver
+Gowin GW1NR-9C FPGA, TANG NANO 9k
